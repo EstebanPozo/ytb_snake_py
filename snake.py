@@ -7,7 +7,7 @@ import pygame, sys, time, random
 # CHEERSS
 
 
-speed = 10
+speed = 20
 
 #windows sizes
 
