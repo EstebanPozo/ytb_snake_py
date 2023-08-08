@@ -37,7 +37,7 @@ blue = pygame.Color(0,0,255)
 
 fps_controller = pygame.time.Clock()
 # one snake square size
-square_size = 80
+square_size = 50
 
 def init_vars():
     global head_pos, snake_body, food_pos, food_spawn, score, direction
