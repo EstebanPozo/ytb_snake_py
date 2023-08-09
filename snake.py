@@ -5,6 +5,7 @@ import pygame, sys, time, random
 # THANKS FOR WATHING, WHAT KIND OF GAMES U WANT TO SEE NEXT TIME? PLEASE STATE IT IN THE COMMENTS
 
 # CHEERSS
+#1
 
 
 speed = 20
