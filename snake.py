@@ -6,6 +6,7 @@ import pygame, sys, time, random
 
 # CHEERSS
 #1
+#2
 
 
 speed = 20
